@@ -1,0 +1,25 @@
+.button{
+   padding: .7rem;
+   font-size: 1rem;
+   font-weight: 700;
+   background: #e53854;
+   width: 100%;
+   border-radius: 1rem;
+   color: rgb(218, 216, 216);
+   border: 2px solid transparent;
+   cursor: pointer;
+   transition: all .2s ease-in-out;
+   margin: .5rem 0;
+}
+
+.button:hover{
+   border: 2px solid #e53854;
+   background: transparent;
+}
+
+@media (min-width: 768px){
+   .button{
+      width: 35%;
+   }
+}
+

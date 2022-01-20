@@ -1,0 +1,9 @@
+.listUsers{
+   margin: 2rem 0;
+}
+
+.listUsers h3{
+   color: #e53854;
+   text-align: center;
+   font-size: 1.3rem;
+}
